@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Chrome 92.0.4515.131,,,2021-08-11 16:22:05,2021-08-11 16:23:11,1m - 6.115s,PASSED
+,,,,,,,
+Test Cases/Tom Test,Chrome 92.0.4515.131,,,2021-08-11 16:22:05,2021-08-11 16:22:50,44.530s,PASSED
+"openBrowser(""https://www.katalon.com"")",Chrome 92.0.4515.131,,,2021-08-11 16:22:06,2021-08-11 16:22:49,42.952s,PASSED
+closeBrowser(),Chrome 92.0.4515.131,,,2021-08-11 16:22:49,2021-08-11 16:22:50,1.276s,PASSED
+,,,,,,,
+Test Cases/Kim Test,Chrome 92.0.4515.131,,,2021-08-11 16:22:50,2021-08-11 16:23:11,21.261s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-11 16:22:50,2021-08-11 16:22:53,3.036s,PASSED
+"navigateToUrl(""lifecharger.org"")",Chrome 92.0.4515.131,,,2021-08-11 16:22:53,2021-08-11 16:23:10,16.701s,PASSED
+closeBrowser(),Chrome 92.0.4515.131,,,2021-08-11 16:23:10,2021-08-11 16:23:11,1.354s,PASSED
